@@ -11,3 +11,10 @@ After that I added the second y-axis stepper motor and the support rods.
 
 Expanding the area and working more on it.
 <img width="772" height="550" alt="CleanShot 2025-08-08 at 01 11 58" src="https://github.com/user-attachments/assets/92f78e88-8eb0-4fb7-9821-76249e61a5ff" />
+
+After that I finished the y-axis and the belt tensioning system. I'm gonna go to sleep now and do the rest tomorrow.
+<img width="858" height="652" alt="CleanShot 2025-08-08 at 01 44 06" src="https://github.com/user-attachments/assets/e2486197-b4c9-4db3-a90e-f7a9413709ea" />
+
+
+
+Total Time Spent: ~3 Hours
