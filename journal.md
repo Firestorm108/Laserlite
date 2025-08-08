@@ -6,3 +6,5 @@ After that, I put the stepper motor in with the pulley. I also added double shea
 
 <img width="492" height="652" alt="CleanShot 2025-08-08 at 00 44 12" src="https://github.com/user-attachments/assets/e2321e80-a855-43c8-9833-1652dc88678f" />
 
+After that I added the second y-axis stepper motor and the support rods.
+<img width="630" height="390" alt="CleanShot 2025-08-08 at 00 58 44" src="https://github.com/user-attachments/assets/0b95eecf-ebba-4791-b055-a8cf2c690bee" />
